@@ -8,7 +8,7 @@ Caso tenham alguma recomendação, nos mande pelo canal do discord.
 
 Bom proveito!!!
 
-### Páginas da EBAC
+## Páginas da EBAC
 Formação: Qualidade de Software:
 https://ebaconline.com.br/qualidade-de-software
 
@@ -74,14 +74,14 @@ https://www.youtube.com/channel/UCdKD_DsNJmiZ9OI6K3ufUJQ
 http://4alltests.com.br/
 
 
-### Podcasts
+## Podcasts
 QAnsei:
 https://open.spotify.com/show/6C86lhNUZ6Pf4nYROy8ciI
 
 TestCast:
 https://www.podcasts.com/testcast-brasil
 
-### Nossos perfis no Linkedin
+## Nossos perfis no Linkedin
 #### Fábio Araújo:
 https://www.linkedin.com/in/fabio10/
 
