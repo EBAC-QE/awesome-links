@@ -73,6 +73,9 @@ https://www.youtube.com/channel/UCdKD_DsNJmiZ9OI6K3ufUJQ
 ##### 4AllTests
 http://4alltests.com.br/
 
+##### Aprendendo a Testar
+http://aprendendotestar.com.br/
+
 
 ## Podcasts
 QAnsei:
