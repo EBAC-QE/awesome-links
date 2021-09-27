@@ -49,7 +49,7 @@ https://www.youtube.com/channel/UCOADfRXMV7j8haY5w9hJUnw
 ##### QA Ladies
 http://www.qaladies.com/
 
-##### Test Girl:
+##### Girls Testing:
 https://www.instagram.com/girls.testing/
 
 ##### Iterasys:
