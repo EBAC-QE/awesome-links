@@ -21,6 +21,9 @@ Para todos os alunos de Qualidade teremos um canal aberto no Discord para trocar
 ##### Grupo Qualidade de Software EBAC
 https://discord.gg/J5zWrHrdDN
 
+##### Meu canal no youtube: Papo com qualidade
+https://www.youtube.com/watch?v=ivHHoODYZc4
+
 ## Principais Eventos:
 TDC - The Dev Conference
 https://thedevconf.com/tdc/2021/index.html
