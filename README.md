@@ -16,10 +16,7 @@ Profissão: Engenheiro de Qualidade de Software:
 https://ebaconline.com.br/engenheiro-de-qualidade
 
 ## Canal aberto 
-Para todos os alunos de Qualidade teremos um canal aberto no Discord para trocarmos conhecimentos e bater um papo de vez em quando. Discord é um aplicativo de voz sobre IP proprietário e gratuito, projetado inicialmente para comunidades de jogos. Disponível em: https://discord.com/ 
-
-##### Grupo Qualidade de Software EBAC
-https://discord.gg/J5zWrHrdDN
+Para todos os alunos de Qualidade teremos um canal aberto na própria plataforma da EBAC para discussões, dúvidas e sugestões.
 
 ##### Meu canal no youtube: Papo com qualidade
 https://www.youtube.com/watch?v=ivHHoODYZc4
