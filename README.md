@@ -4,7 +4,6 @@
 
 
 Olá, sejam bem vindos e bem vindas a nossa página de recomendação de conteúdos. Aqui vamos deixar alguns links úteis que podem te ajudar a se conectar com a comunidade de QA. 
-Caso tenham alguma recomendação, nos mande pelo canal do discord.
 
 Bom proveito!!!
 
